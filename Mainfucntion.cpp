@@ -46,3 +46,4 @@ int main() {
     cout << "Thank you for using the Gym Management System!" << endl;
     return 0;
 }
+
